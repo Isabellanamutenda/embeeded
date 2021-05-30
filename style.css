@@ -50,3 +50,23 @@ h1{
           float: left;
           margin-left: 130px;
       }
+
+      .my content{
+        max-width:900px;
+        margin:0 auto;
+      }
+      body{
+        margin:0px;
+        padding;0px
+      }
+      .my_container{
+       margin:0 auto;
+       background: #fff;
+        max-width:900px;
+          padding:30px;
+      }
+      
+      .my_container h1{
+          padding:0px;
+          margin:0px;
+      }
